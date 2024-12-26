@@ -1,7 +1,7 @@
 # Hi there, I'm Nidhal! 👋
 
 ## About Me
-I'm a **Desktop | Mobile | and MERN Stack Developer** | currently a **3rd-year Computer Science Engineering student** specializing in **Information Security Engineering** |  I'm also passionate about **cybersecurity**, **programming languages**, and **modern software development** practices.  
+I'm a **Desktop , Mobile , and MERN Stack Developer** , currently a **3rd-year Computer Science Engineering student** specializing in **Information Security Engineering** ,  I'm also passionate about **cybersecurity**, **programming languages**, and **modern software development** practices.  
 
 ## My Skills
 - **Web Development**: Advanced-level expertise with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
